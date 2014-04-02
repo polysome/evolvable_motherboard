@@ -1,6 +1,5 @@
 Hardware designs in this project are released with the permission of Paul Layzell 
 under the CERN Open Hardware Licence v1.2.
-
 Software in this project is released under the General Public License v3.
 
 
