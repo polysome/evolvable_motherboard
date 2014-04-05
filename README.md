@@ -9,7 +9,7 @@ http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.5894
 
 2. A USB FPGA based interface board to the evolveable motherboard replacing the IO board, ADC and configuration board.
 
-3. Example and diagnostic code, and perhaps a management GUI.
+3. Example and diagnostic code, and perhaps a management GUI. 
 
 The hardware is released under the CERN OHL and the software is GPLv3.
 
